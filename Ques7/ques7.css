@@ -1,0 +1,31 @@
+body{
+    background-color:black;
+}
+
+#center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+    
+#downloadcapsule{
+    width: 300px;
+    height: 10px;
+    background-color: aliceblue;
+    border-radius: 100px;
+}
+
+
+#progress{
+    transition: all cubic-bezier(0.19, 1, 0.22, 1) .2s;
+    width: 10%;
+    height: 100%;
+    border-radius: 100px;
+    background-color: aquamarine;
+}
+
+#center h3{
+    opacity: 0;
+    color: aliceblue;
+}
