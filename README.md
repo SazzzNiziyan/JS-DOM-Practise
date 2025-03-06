@@ -2,6 +2,8 @@
 
 This repository contains various exercises and practices for manipulating the DOM (Document Object Model) using JavaScript. It is designed to help improve your understanding and skills in working with HTML, CSS, and JavaScript.
 
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
